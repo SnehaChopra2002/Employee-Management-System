@@ -1,0 +1,59 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Home",
+      "request": "launch",
+      "mainClass": "employee.management.system.Home",
+      "projectName": "EmployeeManagementSystem_5ba46706"
+    },
+    {
+      "type": "java",
+      "name": "AddEmployee",
+      "request": "launch",
+      "mainClass": "employee.management.system.AddEmployee",
+      "projectName": "EmployeeManagementSystem_5ba46706"
+    },
+    {
+      "type": "java",
+      "name": "Splash",
+      "request": "launch",
+      "mainClass": "employee.management.system.Splash",
+      "projectName": "EmployeeManagementSystem_5ba46706"
+    },
+    {
+      "type": "java",
+      "name": "Login",
+      "request": "launch",
+      "mainClass": "employee.management.system.Login",
+      "projectName": "EmployeeManagementSystem_5ba46706"
+    },
+    {
+      "type": "java",
+      "name": "Login",
+      "request": "launch",
+      "mainClass": "Login",
+      "projectName": "EmployeeManagementSystem_5ba46706"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Users/sneha/Downloads/Employee management system/EmployeeManagementSystem/lib",
+      "program": "c:/Users/sneha/Downloads/Employee management system/EmployeeManagementSystem/lib/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
